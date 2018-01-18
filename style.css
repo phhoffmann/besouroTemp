@@ -23,7 +23,7 @@ h1 {
   left: 5%;
   width: 75%;
   height: 65%;
-  min-height: fit-content;
+  min-height: 75%;
   background: #40fbee;
   position: fixed;
   z-index: -1;
